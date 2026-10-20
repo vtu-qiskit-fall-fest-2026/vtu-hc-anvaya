@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Anvaya** · Team ID `VTU-QFF-HC-0169` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Anvaya)
+[⬆ Back to Top](#anvaya)
 
 </div>
